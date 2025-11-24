@@ -1,0 +1,25 @@
+/* #region footer */
+
+/* #region footer logo */
+.footer-logo-container {
+  margin-right: 120px;
+}
+
+/* #endregion footer logo */
+
+/* #region footer social */
+
+/* #endregion footer social */
+
+/* #region footer subscribe */
+.footer-subscribe-wrap {
+  margin-left: auto;
+}
+
+.footer-subscribe-email::placeholder {
+  color: #ffffff;
+}
+
+/* #endregion footer subscribe */
+
+/* #endregion footer */
